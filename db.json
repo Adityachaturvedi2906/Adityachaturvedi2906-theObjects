@@ -1,0 +1,25 @@
+{
+  {
+    "id": 1,
+    "username": "spn",
+    "name": "superman",
+   }
+   {
+    "id": 2,
+    "username": "btn",
+    "name": "Batman",
+   }
+   {
+    "id": 3,
+    "username": "thr",
+    "name": "Thor",
+   }{
+    "id": 4,
+    "username": "CA",
+    "name": "Captian America",
+   }{
+    "id": 5,
+    "username": "amn",
+    "name": "AntMan",
+   }
+}
